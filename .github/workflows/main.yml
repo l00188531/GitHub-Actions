@@ -1,1 +1,2 @@
-gh issue close --comment "Auto-closing issue" "1"
+gh issue close 1 --comment "Auto-closing issue"
+
