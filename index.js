@@ -10,5 +10,6 @@ function add(a, b) {
     return a - b;
   }
   
+  // Call functions
   module.exports = { add, subtract };
   
